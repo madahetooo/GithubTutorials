@@ -13,5 +13,6 @@ class MainActivity : AppCompatActivity() {
         print("This is another commit") // default branch
         print("this is latest master commit") // master branch
         print("this is classA commit") // ClassA Branch
+        print("this line will be merged to master") // classA branch
     }
 }
