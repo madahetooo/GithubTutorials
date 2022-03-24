@@ -10,7 +10,8 @@ class MainActivity : AppCompatActivity() {
         print("this is another commit") // Master branch
         print("this is experimental commit") // Experimental branch
         print("this is master commit again ") // Master branch
-        print("This is another commit") // default
-        print("this is latest master commit") // master
+        print("This is another commit") // default branch
+        print("this is latest master commit") // master branch
+        print("this is classA commit") // ClassA Branch
     }
 }
