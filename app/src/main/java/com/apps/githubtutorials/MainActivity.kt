@@ -7,7 +7,8 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
-        print("This is another commit")
-        print("this is experimental commit")
+        print("this is another commit") // Master branch
+        print("this is experimental commit") // Experimental branch
+        print("this is master commit again ") // Master branch
     }
 }
